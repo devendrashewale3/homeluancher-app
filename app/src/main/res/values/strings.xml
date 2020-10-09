@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeLauncher</string>
+    <string name="app_install">"New app install : "</string>
+    <string name="app_uninstall">App uninstall : </string>
+</resources>
